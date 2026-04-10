@@ -341,8 +341,6 @@ ORDER BY new_country, percentage DESC;
 ##  Tools Used
 - PostgreSQL
 - pgAdmin
-- GitHub
-
 ---
 
 ##  Author
