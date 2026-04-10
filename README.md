@@ -1,5 +1,8 @@
-# **NetFlix Movies and TV Shows Data Analysis using SQL**
-![Netflix Logo](netflix brand logo.png)
+# **NetFlix Movies and TV Shows Data Analysis using SQL** 
+
+<img src="https://github.com/Lalith1301/Netflix_sql_project13/blob/039841edbf03aff01cd6e18c1eb28169ab24b044/netflix%20brand%20logo.png" width="100%" alt="Netflix Logo">
+
+
 
 ##  Overview
 This project analyzes the Netflix dataset using SQL to extract meaningful business insights.  
